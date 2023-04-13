@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "C17-AM-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C17-AM-main"
+	}
+}
